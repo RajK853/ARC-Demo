@@ -1,5 +1,6 @@
-import numpy as np
 from typing import Dict
+
+import numpy as np
 from matplotlib.pyplot import Axes
 from ipywidgets import IntSlider, Button
 from matplotlib.backend_bases import MouseEvent

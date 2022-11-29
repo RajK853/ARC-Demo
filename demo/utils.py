@@ -1,6 +1,7 @@
 import json
-import numpy as np
 from typing import Dict
+
+import numpy as np
 from matplotlib.pyplot import Axes
 
 

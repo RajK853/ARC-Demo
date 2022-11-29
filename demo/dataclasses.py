@@ -1,7 +1,8 @@
-import numpy as np
 from typing import Tuple
-import matplotlib.pyplot as plt
 from dataclasses import dataclass
+
+import numpy as np
+import matplotlib.pyplot as plt
 
 from demo import utils
 from demo import constants
