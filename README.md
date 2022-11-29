@@ -6,7 +6,7 @@ Demo for interacting with the [Abstraction and Reasoning Corpus (ARC)](https://g
 
 ## Conda environment
 ```commandline
-git clone --recurse-submodules git@github.com:RajK853/ARC-Demo.git
+git clone --recurse-submodules https://github.com/RajK853/ARC-Demo.git
 cd ARC-Demo
 conda env create -f environment.yml
 ```
