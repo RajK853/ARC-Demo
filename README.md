@@ -11,8 +11,11 @@ cd ARC-Demo
 conda env create -f environment.yml
 ```
 
-## Install Ipykernel for Jupyter Notebook
-```commandline
-conda activate demo-arc
-python -m ipykernel install --user --name=demo-arc
-```
+## Running the Demo
+- Open `JupyterLab`:
+  ```commandline
+  conda activate demo-arc
+  jupyter lab
+  ```
+- Open and execute the `demo.ipynb` notebook.
+
